@@ -1,2 +1,2 @@
 # game-dev-proejcts
-Coding games to learn various languages
+Coding simple games to learn various languages
